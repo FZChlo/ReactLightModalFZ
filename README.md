@@ -17,6 +17,7 @@ Install ReactLightModal with yarn
 yarn add reactlightmodalfz
 ```
 
+
 ## Usage/Examples
 
 ```javascript
