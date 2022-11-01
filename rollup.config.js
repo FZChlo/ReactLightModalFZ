@@ -1,3 +1,6 @@
+// Installation des dépendances utilisées pour le plug in
+// création des input ( point d'entrée ) et out put ( point de sorti)
+
 import resolve from "@rollup/plugin-node-resolve";
 import commonjs from "@rollup/plugin-commonjs";
 import typescript from "@rollup/plugin-typescript";
